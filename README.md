@@ -30,7 +30,7 @@ It will write two TSV files:
 
 
 2. Plotting
-The `[PREFIX]_location.tsv` can be plotted as follows:
+The `[PREFIX]_location.tsv` can be done as follows:
 
 ```
 # Basic plotting - plot position of each BUSCO along each chr. Colour BUSCO by chr identity. Each chr is a box of fixed size
