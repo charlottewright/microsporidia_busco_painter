@@ -45,9 +45,6 @@ NB: `fasta.fai` generated via `samtools faidx fasta`.
 
 ### Example output for `plot_locations_onlydiff_scaled.R`:
 
-![primary_vs_alternate_complete_location tsv_buscopainter](https://user-images.githubusercontent.com/57258050/195660232-723d0a81-5a97-4d17-b63a-fd54eade54c0.png)
-
-
-
+<img src="https://user-images.githubusercontent.com/57258050/195661475-b0115d18-abf5-4bda-80ac-6069f46bb09a.png" width="590" height="1181">
 
 
